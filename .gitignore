@@ -1,0 +1,27 @@
+# Compiled Java class files
+*.class
+
+# Build and output directories
+bin/
+build/
+out/
+target/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash logs
+hs_err_pid*
+replay_pid*
